@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Guilherme Silva Fonseca, and I'm a front-end web developer in my last semester of Computer Engineering. I specialize in building responsive and dynamic websites using WordPress, PHP, HTML, SCSS, and JavaScript. Currently, I'm expanding my skill set by learning Next.js and TypeScript to stay at the forefront of modern web development.<br><br>💼 Front-End Web Developer<br>📖 Learning Next.js and TypeScript<br>🎓 Last Semester of Computer Engineering
+My name is Guilherme Silva Fonseca, and I'm a front-end web developer in my last semester of Computer Engineering. I specialize in building responsive and dynamic websites using WordPress, PHP, HTML, SCSS, and JavaScript. Currently, I'm expanding my skill set by learning Next.js and TypeScript to stay at the forefront of modern web development.<br><br>💼 Front-End Web Developer<br>📖 Learning Next.js and TypeScript<br>🎓 Graduation on Computer Engineering 
 
 
 ## 🌐 Socials:
