@@ -55,12 +55,7 @@ Operating natively within Linux environments (Pop!_OS/Ubuntu), I take ownership 
 
 As part of my focus on providing high-end solutions for digital agencies, I have architected and delivered several complex systems. *Click on the repositories below to read the full architectural breakdowns.*
 
-### 1. 🏨 [Custom Hotel Onboarding & Asset Management Platform](<!-- Insira o link do repo aqui -->)
-**The Challenge:** Replace clunky corporate tools like Microsoft OneDrive with a seamless, brandable portal for hotels to upload media and configure rooms.
-* **Architecture:** Built from the ground up using custom WordPress functionality, GCP for data flow, and advanced media handling. 
-* **Outcome:** Significantly reduced friction during client onboarding and modernized the UI/UX for B2B users across Europe and Asia.
-
-### 2. 📊 [Client Intake Form & Data Synchronization](<!-- Insira o link do repo aqui -->)
+### 📊 [Client Intake Form & Data Synchronization](https://github.com/guisfons/intake-form)
 **The Challenge:** Managing data collection for an agency serving over 17,000 clients required a highly scalable and secure integration.
 * **Architecture:** Engineered robust API connections to synchronize sensitive onboarding data, backed by a strict Pre-Release QA Checklist.
 * **Outcome:** Automated data flow, removed manual entry errors, and streamlined the operations for the US market.
