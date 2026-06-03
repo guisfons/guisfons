@@ -60,7 +60,7 @@ As part of my focus on providing high-end solutions for digital agencies, I have
 * **Architecture:** Built a scalable framework leveraging native Gutenberg Blocks and Advanced Custom Fields (ACF) to allow maximum modularity without sacrificing page speed or Core Web Vitals.
 * **Outcome:** Streamlined the agency's production pipeline, ensuring consistent performance and highly customizable, pixel-perfect layouts across thousands of B2B and B2C deployments.
 
-### 2. 📊 [Client Intake Form & Data Synchronization]((https://github.com/guisfons/intake-form))
+### 2. 📊 [Client Intake Form & Data Synchronization](https://github.com/guisfons/intake-form)
 **The Challenge:** Managing data collection and operational flow for a massive client base required a highly scalable, secure, and automated integration.
 * **Architecture:** Engineered robust REST API connections to synchronize sensitive onboarding data directly into the agency's workflow, backed by a strict Pre-Release QA Checklist.
 * **Outcome:** Automated data flow, completely removed manual entry errors, and significantly reduced friction during the client onboarding phase.
