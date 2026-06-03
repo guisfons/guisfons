@@ -55,10 +55,15 @@ Operating natively within Linux environments (Pop!_OS/Ubuntu), I take ownership 
 
 As part of my focus on providing high-end solutions for digital agencies, I have architected and delivered several complex systems. *Click on the repositories below to read the full architectural breakdowns.*
 
-### 📊 [Client Intake Form & Data Synchronization](https://github.com/guisfons/intake-form)
-**The Challenge:** Managing data collection for an agency serving over 17,000 clients required a highly scalable and secure integration.
-* **Architecture:** Engineered robust API connections to synchronize sensitive onboarding data, backed by a strict Pre-Release QA Checklist.
-* **Outcome:** Automated data flow, removed manual entry errors, and streamlined the operations for the US market.
+### 1. 🎨 [High-Conversion Agency Theme Framework](https://github.com/guisfons/ollyolly-base-theme)
+**The Challenge:** Developing a scalable, highly performant, and reusable WordPress theme architecture capable of serving over 17,000 diverse clients in the US market.
+* **Architecture:** Built a scalable framework leveraging native Gutenberg Blocks and Advanced Custom Fields (ACF) to allow maximum modularity without sacrificing page speed or Core Web Vitals.
+* **Outcome:** Streamlined the agency's production pipeline, ensuring consistent performance and highly customizable, pixel-perfect layouts across thousands of B2B and B2C deployments.
+
+### 2. 📊 [Client Intake Form & Data Synchronization]((https://github.com/guisfons/intake-form))
+**The Challenge:** Managing data collection and operational flow for a massive client base required a highly scalable, secure, and automated integration.
+* **Architecture:** Engineered robust REST API connections to synchronize sensitive onboarding data directly into the agency's workflow, backed by a strict Pre-Release QA Checklist.
+* **Outcome:** Automated data flow, completely removed manual entry errors, and significantly reduced friction during the client onboarding phase.
 
 ---
 
